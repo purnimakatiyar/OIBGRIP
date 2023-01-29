@@ -1,0 +1,6 @@
+body{
+    background-image: url(lata.jpg);
+  
+   backdrop-filter: blur(3px);
+   font-family: 'Concert One', cursive;
+}
